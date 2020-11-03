@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
 import AddProduct from './components/AddProduct.vue'
 import ProductBasket from './components/ProductBasket.vue'
